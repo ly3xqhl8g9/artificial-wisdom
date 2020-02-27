@@ -1,13 +1,15 @@
+import functools
 import time
 
 
 
-class Ponderer():
+class Wonder():
     def __init__(self, function):
+        functools.update_wrapper(self, function)
         self.function = function
         self.running_times = []
 
-    def ponder(self, *args, **kwargs):
+    def __call__(self, *args, **kwargs):
         start_time = time.perf_counter()
         value = self.function(*args, **kwargs)
         end_time = time.perf_counter()
