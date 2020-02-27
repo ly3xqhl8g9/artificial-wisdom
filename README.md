@@ -47,6 +47,17 @@ Another insight of natural wisdom-seeking came from looking over the fact of our
 
 If artificial wisdom is to be attained, processes must achieve a level of contentness for the work done in their short-lived presence.
 
+Therefore a process would have a start-point and an estimated end-point, again in crude pseudo-code,
+
+```
+    function (
+        parameters,
+        { start: time.now(), end: time.guess() },
+    ) {
+        // body of function
+    }
+```
+
 
 ### Wonderedful
 
