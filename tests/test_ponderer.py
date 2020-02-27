@@ -1,7 +1,7 @@
 import unittest
 import pprint
 
-from artificial_wisdom.main import Ponderer
+from artificial_wisdom.ponderer import Ponderer
 
 
 

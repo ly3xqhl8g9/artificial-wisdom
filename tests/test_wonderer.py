@@ -1,7 +1,7 @@
 import unittest
 import pprint
 
-from artificial_wisdom.main import Wonderer
+from artificial_wisdom.wonderer import Wonderer
 
 
 
