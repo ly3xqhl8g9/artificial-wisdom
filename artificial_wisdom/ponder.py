@@ -3,7 +3,7 @@ import time
 
 
 
-class Ponder():
+class Ponder:
     def __init__(self, function):
         functools.update_wrapper(self, function)
         self.function = function

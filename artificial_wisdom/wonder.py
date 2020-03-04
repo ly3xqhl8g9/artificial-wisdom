@@ -3,7 +3,7 @@ import time
 
 
 
-class Wonder():
+class Wonder:
     def __init__(self, function):
         functools.update_wrapper(self, function)
         self.function = function
