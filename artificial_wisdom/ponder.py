@@ -10,6 +10,7 @@ class Ponder:
         self.running_times = []
 
     def __call__(self, *args, **kwargs):
+        print('pondering start')
         start_time = time.perf_counter()
         value = self.function(*args, **kwargs)
         end_time = time.perf_counter()
@@ -19,4 +20,5 @@ class Ponder:
             "run_time": run_time,
         }
         self.running_times.append(running_time);
+        print('pondering end')
         return value

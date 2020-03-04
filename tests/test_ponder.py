@@ -13,7 +13,7 @@ class TestPonder(unittest.TestCase):
             return one + two
 
         # adder(5, 7)
-        # adder(5, 7)
+        # adder(7, 5)
         # print(adder.running_times)
 
         assert adder(5, 7) == 12
