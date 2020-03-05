@@ -22,3 +22,6 @@ class Ponder:
         self.running_times.append(running_time);
         print('pondering end')
         return value
+
+    def defer(self):
+        pass
