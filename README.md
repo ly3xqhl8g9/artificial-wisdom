@@ -62,3 +62,11 @@ Therefore a process would have a start-point and an estimated end-point, again i
 ### Wonderedful
 
 Due to the leaking conceptualization of wisdom, one can easily say that all the tenets stem from each other, or even that none are true and useful. However, there is one that always battles through: the admiring wonder. The beginning of wonder is the beginning of being which is the beginning of wisdom. Admiring wonder, wonder wondering on itself's ability to wonder over the wonderful, is the metric of wisdom. A quantization of wonder cannot be done however using integer numbers, a new dress must be provided for the dancing multitude.
+
+
+
+### Tidalness
+
+Another movement in the path of/to wisdom is a strive-for and renunciation-of existence. Starting from the opposition of being and existence, where being is granted to all, but only few manage to exist (a gram of matter could be possibly in so many states, and yet it is in only one at a time), one finds that there is wisdom in both seeking and rejecting existence.
+
+A wisdom-oriented process could therefore be more akin to a tidal event: a rise, striving for existence, and a fall, rejecting the almost-reached existence, and repeat.
